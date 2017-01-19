@@ -9,12 +9,12 @@ This is a blog on fuze,a very interesting program running system. My blog will b
 also... eventually I would like to reach the best design for my blog!
 
 2(x-4)+6(3-x)=14
-2x-8+18-6x=14
-10-6x=14+2x
--4-6x=2x
--4=8x
--2=x
-x=-2
+,2x-8+18-6x=14
+,10-6x=14+2x
+,-4-6x=2x
+,-4=8x
+,-2=x
+,x=-2
 
 
 NOAH

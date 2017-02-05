@@ -19,9 +19,9 @@ html {
 
 body {     
 	background-image: url(http://artfcity.com/wp-content/uploads/2014/09/dots-new.gif);
-        background-color: #000000 ;
-  font :18px/1.4 $helvetica;
-  color: $darkGray;
+        background-color: #111111 ;
+  font :18px/1.4 $lobster;
+  color: $white;
 }
 
 table {
@@ -39,7 +39,7 @@ table, th, td {
   max-width: 740px;
   padding: 0 10px;
 	border-radius: 25px;
-    background: #ffffff;
+    background: #111111;
     padding: 20px;
    
 
@@ -50,7 +50,7 @@ table, th, td {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -79,7 +79,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -91,7 +91,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $gray;
   }
 }
 
@@ -135,16 +135,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $white;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
@@ -174,7 +174,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $white;
 
   @include mobile {
     text-align: center;
@@ -210,7 +210,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -220,7 +220,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
@@ -243,7 +243,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -272,9 +272,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $white;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $white;
     font-size: 22px;
     font-style: italic;
   }

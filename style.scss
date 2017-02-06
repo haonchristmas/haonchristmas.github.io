@@ -23,6 +23,10 @@ body {
   font :18px/1.4 $helveticaNeue;
   color: $white;
 }
+th {
+    background-color: #4CAF50;
+    color: white;
+}
 
 table {
     border-collapse: collapse;

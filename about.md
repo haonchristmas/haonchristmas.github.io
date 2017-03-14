@@ -12,5 +12,8 @@ Here is a random equation I put in for no reason whatsoever:
 
 2(999+X)+6(X-8)=7(8xX)-9(9999999+5)
 
+Incase you didnt know, I have edited my blog 64 times!!!
+
+PS. The square root of 12,345,678,910 is 111,111.1107 
 
 NOAH

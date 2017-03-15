@@ -24,16 +24,17 @@ body {
   color: $white;
 }
 th {
-    background-color: darkGray;
+    background-color: white;
 }
 
 table {
     border-collapse: collapse;	
+    color: white
 }	
 
 table, th, td {
     border: 2px solid white;
-	
+    color: white 	
 padding: 15px;
     text-align: left;
 }
@@ -46,7 +47,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
   padding: 0 10px;
 	border-radius: 25px;
     background: #111111;
-    padding: 20px;
+    padding: 21px;
    
 
    

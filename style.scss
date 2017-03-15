@@ -28,16 +28,16 @@ th {
 }
 
 table {
-    border-collapse: collapse;
-    color: darkGray	
+    border-collapse: collapse;	
 }	
 
 table, th, td {
-    border: 2px solid gray;
+    border: 2px solid white;
 	
 padding: 15px;
     text-align: left;
-}	
+}
+tr:nth-child(even) {background-color: #f2f2f2} 		
 
 
 .container {

@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a blog on fuze,a very interesting program running system. My blog will be on my attempts to create all sorts of code, from games to... well other games!
+My blog has been REBORN! You are now viewing the latest (and GREATEST) blog in the universe!
 
-also... eventually I would like to reach the best design for my blog!
-
-(BTW the flashes secret identity is barry allen!)
-
-NOAH
+ENJOY!

@@ -18,7 +18,7 @@ html {
 }
 
 body {     
-	background-image: url(https://wallpapercave.com/wp/K0HCxt0.jpg);
+	background-image: url(http://www.fiinovation.co.in/wp-content/uploads/2017/04/forests.jpg);
 	background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
@@ -50,7 +50,7 @@ tr:nth-child(even) {background-color: #696d72}
   max-width: 740px;
   padding: 0 10px;
 	border-radius: 25px;
-    background: #000000;
+    background: #111111;
     padding: 21px;
 	
 
@@ -92,7 +92,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $black;
+  color: $white;
 }
 
 p {
@@ -104,7 +104,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $lightGray;
+    color: $white;
   }
 }
 
@@ -148,16 +148,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $black;
+  color: $white;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
@@ -223,7 +223,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $black;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -256,7 +256,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $black;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -285,9 +285,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $black;
+    border-left: 2px solid $white;
     padding: 0.1em 1em;
-    color: $black;
+    color: $white;
     font-size: 22px;
     font-style: italic;
   }
